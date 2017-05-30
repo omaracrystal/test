@@ -3,6 +3,8 @@ const notFound = require('feathers-errors/not-found');
 
 module.exports = function () {
   // Add your custom middleware here. Remember, that
+  mongoose.connect(process.env.MONGO_URI);
+
   // in Express the order matters, `notFound` and
   // the error handler have to go last.
   const app = this;
