@@ -12,8 +12,7 @@ This a basic crud react-redux-featherjs application for managing listings. It cu
 - MongoDB
 - Node
 - Feathers
-- Gulp & Browserify 
-- Heroku
+- Gulp & Browserify
 
 **Main Page**                       |    |**Form Validation**
 :----------------------------------:|:--:|:----------------------------------:
@@ -33,7 +32,7 @@ This a basic crud react-redux-featherjs application for managing listings. It cu
 
 ```bash
 git clone https://github.com/omaracrystal/React-Redux-CRUD-BiggerPockets.git
-cd react-listing-manager
+cd React-Redux-CRUD-BiggerPockets
 
 # Install frontend dependencies
 npm install
