@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf8ea2ac-8daa-48df-9448-437b2b390cc4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/listing-card.jsx" afterPath="$PROJECT_DIR$/src/components/listing-card.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/listing-form.jsx" afterPath="$PROJECT_DIR$/src/components/listing-form.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/listing-list.jsx" afterPath="$PROJECT_DIR$/src/components/listing-list.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/listing-form-page.jsx" afterPath="$PROJECT_DIR$/src/pages/listing-form-page.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/_listing-form.scss" afterPath="$PROJECT_DIR$/src/styles/components/_listing-form.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/global/_helpers.scss" afterPath="$PROJECT_DIR$/src/styles/global/_helpers.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/global/variables/_var-other.scss" afterPath="$PROJECT_DIR$/src/styles/global/variables/_var-other.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/main.css" afterPath="$PROJECT_DIR$/src/styles/main.css" />
-    </list>
+    <list default="true" id="cf8ea2ac-8daa-48df-9448-437b2b390cc4" name="Default" comment="" />
     <ignored path="redux-crud-example.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -359,18 +349,18 @@
       <workItem from="1496032022301" duration="13822000" />
       <workItem from="1496083105615" duration="519000" />
       <workItem from="1496086144565" duration="25586000" />
-      <workItem from="1496120958108" duration="14793000" />
+      <workItem from="1496120958108" duration="15136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60117000" />
+    <option name="totallyTimeSpent" value="60460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="526" y="23" width="900" height="801" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5038241" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
