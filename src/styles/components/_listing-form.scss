@@ -8,6 +8,7 @@
 
   .cancel-edit {
     position: absolute;
+    background: $white;
     z-index: 10;
     @include rem(right, 104px);
     color: $error-color;
@@ -24,6 +25,7 @@
 
     @media (max-width: $mq-tablet) {
       position: relative;
+      background: $site-background-color;
       width: 100%;
       right: 0;
       border: 1px solid $border-gray;
@@ -38,9 +40,11 @@
     label {
       position: absolute;
       visibility: hidden;
+      z-index: 10;
     }
 
     input {
+      position: relative;
       width: 100%;
       @include rem(padding, 15px);
       border: 0;

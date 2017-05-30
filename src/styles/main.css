@@ -371,6 +371,7 @@ li {
   /* 9 */ }
   .App-form .cancel-edit {
     position: absolute;
+    background: #ffffff;
     z-index: 10;
     /* 3 */
     /* 3 */
@@ -406,6 +407,7 @@ li {
     @media (max-width: 760px) {
       .App-form .cancel-edit {
         position: relative;
+        background: #F1F1F1;
         width: 100%;
         right: 0;
         border: 1px solid #d3d3d3;
@@ -423,8 +425,10 @@ li {
         /* 9 */ } }
   .App-form .field label {
     position: absolute;
-    visibility: hidden; }
+    visibility: hidden;
+    z-index: 10; }
   .App-form .field input {
+    position: relative;
     width: 100%;
     /* 3 */
     /* 3 */
@@ -872,6 +876,21 @@ li {
   justify-content: space-between;
   max-width: 760px;
   margin: auto; }
+
+.form-container.form-edit input:nth-child(2) {
+  /* 3 */
+  /* 3 */
+  /* 4 */
+  /* 6 */
+  /* 6 */
+  /* 7 */
+  padding-right: 100px;
+  /* 9 */
+  padding-right: 10rem;
+  /* 9 */ }
+  @media (max-width: 760px) {
+    .form-container.form-edit input:nth-child(2) {
+      padding-right: 15px; } }
 
 .form-container h1.form-header {
   margin: 50px;

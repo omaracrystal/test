@@ -1,7 +1,33 @@
-# REDUX CRUD EXAMPLE
+# REDUX CRUD EXAMPLE FOR LISTINGS 
 
-## Introduction
+## Description:
 This a basic crud react-redux-featherjs application for managing listings. It currently uses Mongodb for the database and FeathersJS for the REST API server.
+
+## Technologies:
+- React
+- Redux
+- JavaScript
+- HTML5
+- Sass
+- MongoDB
+- Node
+- Feathers
+- Gulp & Browserify 
+- Heroku
+
+**Main Page**                       |    |**Form Validation**
+:----------------------------------:|:--:|:----------------------------------:
+![](/public/images/desktop.png)      |    | ![](/public/images/formvalidation.png)
+
+**Listing Card**                    |    |**Edit/Update**
+:----------------------------------:|:--:|:----------------------------------:
+![](/public/images/cards.png)    |    | ![](/public/images/edit.png)
+
+**Mobile**                          |    |  **Tablet**
+:----------------------------------:|:--:|:----------------------------------:
+![](/public/images/mobile.png)        |    | ![](/public/images/tablet.png)
+
+
 
 ##  How to install
 
