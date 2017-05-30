@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf8ea2ac-8daa-48df-9448-437b2b390cc4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/listing-form.jsx" afterPath="$PROJECT_DIR$/src/components/listing-form.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/_listing-form.scss" afterPath="$PROJECT_DIR$/src/styles/components/_listing-form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/global/variables/_var-colors.scss" afterPath="$PROJECT_DIR$/src/styles/global/variables/_var-colors.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/main.css" afterPath="$PROJECT_DIR$/src/styles/main.css" />
     </list>
     <ignored path="redux-crud-example.iws" />
@@ -25,11 +25,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_listing-form.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_listing-form.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/styles/components/_listing-form.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            <state relative-caret-position="465">
+              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_var-colors.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/styles/global/variables/_var-colors.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_mixins-buttons.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/styles/global/mixins/_mixins-buttons.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="54" column="3" selection-start-line="50" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -47,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listing-form.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="listing-form.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/listing-form.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
@@ -112,7 +132,6 @@
         <option value="$PROJECT_DIR$/src/pages/listing-form-page.jsx" />
         <option value="$PROJECT_DIR$/src/App.jsx" />
         <option value="$PROJECT_DIR$/src/styles/main.scss" />
-        <option value="$PROJECT_DIR$/src/styles/global/variables/_var-colors.scss" />
         <option value="$PROJECT_DIR$/src/styles/global/_helpers.scss" />
         <option value="$PROJECT_DIR$/src/styles/global/mixins/_mixins-buttons.scss" />
         <option value="$PROJECT_DIR$/package.json" />
@@ -124,8 +143,9 @@
         <option value="$PROJECT_DIR$/public/js/main.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/styles/components/_list-card.scss" />
-        <option value="$PROJECT_DIR$/src/styles/components/_listing-form.scss" />
         <option value="$PROJECT_DIR$/src/components/listing-form.jsx" />
+        <option value="$PROJECT_DIR$/src/styles/global/variables/_var-colors.scss" />
+        <option value="$PROJECT_DIR$/src/styles/components/_listing-form.scss" />
       </list>
     </option>
   </component>
@@ -143,7 +163,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="343" />
+    <option name="x" value="340" />
     <option name="y" value="23" />
     <option name="width" value="1088" />
     <option name="height" value="801" />
@@ -279,7 +299,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="listing&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/components/listing-form.jsx&#10;mix&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/mixins/_mixins-buttons.scss&#10;color&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-colors.scss&#10;main&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/main.scss&#10;colo&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-colors.scss&#10;font&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-fonts.scss&#10;fon&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-fonts.scss&#10;fonts&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-fonts.scss&#10;mixins&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/mixins/_mixins-buttons.scss&#10;colors&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-colors.scss&#10;index&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/public/index.html&#10;base&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/_base.scss&#10;var-me&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-media-queries.scss&#10;index.html&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/public/index.html&#10;oth&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-other.scss" />
+    <property name="SearchEverywhereHistoryKey" value="colo&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-colors.scss&#10;mix&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/mixins/_mixins-buttons.scss&#10;listing&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/components/listing-form.jsx&#10;color&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-colors.scss&#10;main&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/main.scss&#10;font&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-fonts.scss&#10;fon&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-fonts.scss&#10;fonts&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-fonts.scss&#10;mixins&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/mixins/_mixins-buttons.scss&#10;colors&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-colors.scss&#10;index&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/public/index.html&#10;base&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/_base.scss&#10;var-me&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-media-queries.scss&#10;index.html&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/public/index.html&#10;oth&#9;FILE&#9;file:///Users/crystalomara/Desktop/official-biggerpockets/new/React-Redux-CRUD-for-Listings/src/styles/global/variables/_var-other.scss" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -361,15 +381,15 @@
       <workItem from="1496032022301" duration="13822000" />
       <workItem from="1496083105615" duration="519000" />
       <workItem from="1496086144565" duration="25586000" />
-      <workItem from="1496120958108" duration="7411000" />
+      <workItem from="1496120958108" duration="8494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52735000" />
+    <option name="totallyTimeSpent" value="53818000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="343" y="23" width="1088" height="801" extended-state="0" />
+    <frame x="340" y="23" width="1088" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30210325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -620,26 +640,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/global/variables/_var-colors.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/global/_helpers.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/global/mixins/_mixins-buttons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="54" column="3" selection-start-line="50" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -714,16 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="26" column="48" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -742,14 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/components/_listing-form.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/listing-form.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -757,6 +743,40 @@
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/global/mixins/_mixins-buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="3" selection-start-line="50" selection-start-column="2" selection-end-line="54" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/global/variables/_var-colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/components/_listing-form.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>

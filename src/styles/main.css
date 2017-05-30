@@ -353,7 +353,30 @@ li {
     /* 9 */
     padding: 1.2rem 2.5rem;
     /* 9 */
-    border-left: 1px solid; }
+    border-left: 1px solid;
+    border-radius: 0 5px 5px 0;
+    transition: all 0.3s ease; }
+    .App-form .cancel-edit:hover, .App-form .cancel-edit:focus {
+      background: #b86968;
+      color: #ffffff; }
+    @media (max-width: 760px) {
+      .App-form .cancel-edit {
+        position: relative;
+        width: 100%;
+        right: 0;
+        border: 1px solid #d3d3d3;
+        border-radius: 0;
+        box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.21);
+        /* 3 */
+        /* 3 */
+        /* 4 */
+        /* 6 */
+        /* 6 */
+        /* 7 */
+        margin-top: -2px;
+        /* 9 */
+        margin-top: -0.2rem;
+        /* 9 */ } }
   .App-form .field label {
     position: absolute;
     visibility: hidden; }
@@ -441,7 +464,7 @@ li {
       background: #185195; }
     .App-form .form-button-save.disabled {
       cursor: not-allowed; }
-  @media (max-width: 460px) {
+  @media (max-width: 760px) {
     .App-form {
       padding-bottom: 0;
       display: flex;
