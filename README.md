@@ -32,7 +32,7 @@ This a basic crud react-redux-featherjs application for managing listings. It cu
 ##  How to install
 
 ```bash
-git clone https://github.com/omaracrystal/React-CRUD-Listings.git
+git clone https://github.com/omaracrystal/React-Redux-CRUD-BiggerPockets.git
 cd react-listing-manager
 
 # Install frontend dependencies

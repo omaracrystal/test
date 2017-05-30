@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cf8ea2ac-8daa-48df-9448-437b2b390cc4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/listing-form.jsx" afterPath="$PROJECT_DIR$/src/components/listing-form.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/_listing-form.scss" afterPath="$PROJECT_DIR$/src/styles/components/_listing-form.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/containers/_app.scss" afterPath="$PROJECT_DIR$/src/styles/containers/_app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/main.css" afterPath="$PROJECT_DIR$/src/styles/main.css" />
     </list>
     <ignored path="redux-crud-example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,8 +47,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="465">
-                <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <first_editor relative-caret-position="105">
+                <caret line="34" column="76" selection-start-line="34" selection-start-column="76" selection-end-line="34" selection-end-column="76" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -135,8 +131,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
-    <option name="y" value="23" />
+    <option name="x" value="334" />
+    <option name="y" value="26" />
     <option name="width" value="1104" />
     <option name="height" value="745" />
   </component>
@@ -368,15 +364,15 @@
       <workItem from="1496083105615" duration="519000" />
       <workItem from="1496086144565" duration="25586000" />
       <workItem from="1496120958108" duration="15136000" />
-      <workItem from="1496137535963" duration="6156000" />
+      <workItem from="1496137535963" duration="6275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66616000" />
+    <option name="totallyTimeSpent" value="66735000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="23" width="1104" height="745" extended-state="0" />
+    <frame x="334" y="26" width="1104" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20433144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -741,8 +737,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <first_editor relative-caret-position="105">
+            <caret line="34" column="76" selection-start-line="34" selection-start-column="76" selection-end-line="34" selection-end-column="76" />
             <folding />
           </first_editor>
           <second_editor />
