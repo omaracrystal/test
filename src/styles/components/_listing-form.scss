@@ -69,21 +69,10 @@
   }
 
   .form-button-save {
-    border-radius: $border-radius;
-    border: 0;
-    box-shadow: $box-shadow-property-card;
-    font-weight: $font-weight-normal;
     @include rem(margin-left, 10px);
     @include rem(height, 45px);
     @include rem(padding, 15px);
     width: 100px;
-    background: #4A90E2;
-    color: #ffffff;
-    @include button($primary-btn-color, $white)
-
-    &.disabled {
-      cursor: not-allowed;
-    }
   }
 
   @media (max-width: $mq-tablet) {

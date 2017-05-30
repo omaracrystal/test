@@ -250,6 +250,50 @@ li {
   .message.negative {
     color: #9f3a38; }
 
+.modal {
+  position: fixed;
+  background: white;
+  padding: 50px;
+  border-radius: 5px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0px 1px 45px 0px rgba(0, 0, 0, 0.5); }
+
+.primary-button {
+  color: #ffffff !important;
+  border-radius: 5px;
+  border: 0;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.21);
+  font-weight: 400 !important;
+  background: #4A90E2;
+  border: 0;
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+  /* 3 */
+  /* 3 */
+  /* 4 */
+  /* 6 */
+  /* 6 */
+  /* 7 */
+  /* 4 */
+  /* 6 */
+  /* 6 */
+  /* 7 */
+  padding: 15px 30px;
+  /* 9 */
+  padding: 1.5rem 3rem;
+  /* 9 */ }
+  .primary-button:hover, .primary-button:focus {
+    color: #ffffff;
+    background: #2171ce; }
+  .primary-button:active {
+    color: #ffffff;
+    background: #185195; }
+  .primary-button.disabled {
+    cursor: not-allowed; }
+
 /* -------------------------- COMPONENTS -------------------------- */
 .ui.two.item.menu {
   display: flex;
@@ -414,10 +458,6 @@ li {
     .App-form .field:nth-child(2) input {
       border-radius: 0 5px 5px 0; }
   .App-form .form-button-save {
-    border-radius: 5px;
-    border: 0;
-    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.21);
-    font-weight: 400 !important;
     /* 3 */
     /* 3 */
     /* 4 */
@@ -448,22 +488,7 @@ li {
     /* 9 */
     padding: 1.5rem;
     /* 9 */
-    width: 100px;
-    background: #4A90E2;
-    color: #ffffff;
-    background: #4A90E2;
-    border: 0;
-    cursor: pointer;
-    text-decoration: none !important;
-    transition: all 0.3s ease; }
-    .App-form .form-button-save:hover, .App-form .form-button-save:focus {
-      color: #ffffff;
-      background: #2171ce; }
-    .App-form .form-button-save:active {
-      color: #ffffff;
-      background: #185195; }
-    .App-form .form-button-save.disabled {
-      cursor: not-allowed; }
+    width: 100px; }
   @media (max-width: 760px) {
     .App-form {
       padding-bottom: 0;

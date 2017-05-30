@@ -18,11 +18,11 @@ const validate = (values) => {
             message: 'Please provide a valid url'
         }
     }
-    // else if(!/^(?:http(s)?:\/\/)?[\w.-]+(?:\.[\w\.-]+)+[\w\-\._~:/?#[\]@!\$&'\(\)\*\+,;=.]+$/i.test(values.url)) {
-    //   errors.url = {
-    //     message: 'Invalid Url'
-    //   }
-    // }
+    else if(!/^(?:http(s)?:\/\/)?[\w.-]+(?:\.[\w.-]+)+[\w\-._~:/?#[\]@!$&'()*+,;=.]+$/i.test(values.url)) {
+      errors.url = {
+        message: 'Invalid Url'
+      }
+    }
     return errors;
 }
 
@@ -71,21 +71,19 @@ class ListingForm extends Component {
                         onSubmit={handleSubmit}
                         loading={loading}>
 
+                        <Field
+                            className="form-input form-input-name"
+                            name="title"
+                            type="text"
+                            component={this.renderField}
+                            label="Title"/>
 
-
-                            <Field
-                                className="form-input form-input-name"
-                                name="title"
-                                type="text"
-                                component={this.renderField}
-                                label="Title"/>
-
-                            <Field
-                                className="form-input form-input-url"
-                                name="url"
-                                type="text"
-                                component={this.renderField}
-                                label="Url"/>
+                        <Field
+                            className="form-input form-input-url"
+                            name="url"
+                            type="text"
+                            component={this.renderField}
+                            label="Url"/>
 
                         <NavLink
                             className={listing._id ? 'cancel-edit' : 'hide'}
@@ -95,7 +93,7 @@ class ListingForm extends Component {
                         </NavLink>
 
                         <Button
-                            className="form-button-save"
+                            className="primary-button form-button-save"
                             primary type='submit'
                             disabled={pristine || submitting}>
                             {listing._id ? 'UPDATE' : 'ADD'}
