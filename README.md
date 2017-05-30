@@ -50,7 +50,7 @@ Ensure you have mongodb installed in your system and that it is running
 Start the backend server first:
 
 ```bash
-cd react-listing-manager/backend
+cd React-Redux-CRUD-BiggerPockets/backend
 npm start
 ```
 This will run the backend server at localhost:3030. If all is working well, you should be able to access the url http://localhost:3030/listings from your Browser or Postman
@@ -59,7 +59,7 @@ This will run the backend server at localhost:3030. If all is working well, you 
 Open a separate terminal to start the client:
 
 ```bash
-cd react-listing-manager
+cd React-Redux-CRUD-BiggerPockets
 npm start
 ```
 
