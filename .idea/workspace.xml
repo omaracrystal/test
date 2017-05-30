@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf8ea2ac-8daa-48df-9448-437b2b390cc4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-    </list>
+    <list default="true" id="cf8ea2ac-8daa-48df-9448-437b2b390cc4" name="Default" comment="" />
     <ignored path="redux-crud-example.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -265,12 +262,12 @@
       <workItem from="1496083105615" duration="519000" />
       <workItem from="1496086144565" duration="25586000" />
       <workItem from="1496120958108" duration="15136000" />
-      <workItem from="1496137535963" duration="2896000" />
+      <workItem from="1496137535963" duration="3187000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63356000" />
+    <option name="totallyTimeSpent" value="63647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="524" y="23" width="900" height="701" extended-state="0" />
