@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf8ea2ac-8daa-48df-9448-437b2b390cc4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/src/middleware/index.js" afterPath="$PROJECT_DIR$/backend/src/middleware/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/src/models/listing.model.js" afterPath="$PROJECT_DIR$/backend/src/models/listing.model.js" />
     </list>
     <ignored path="redux-crud-example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,21 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listing.model.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="listing.model.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend/src/models/listing.model.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/src/middleware/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -157,7 +157,6 @@
         <option value="$PROJECT_DIR$/src/components/listing-list.jsx" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/backend/src/models/listing.model.js" />
         <option value="$PROJECT_DIR$/src/components/listing-form.jsx" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/styles/components/_navigation.scss" />
@@ -165,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/styles/components/_listing-form.scss" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/backend/src/middleware/index.js" />
+        <option value="$PROJECT_DIR$/backend/src/models/listing.model.js" />
       </list>
     </option>
   </component>
@@ -477,12 +477,12 @@
       <workItem from="1496083105615" duration="519000" />
       <workItem from="1496086144565" duration="25586000" />
       <workItem from="1496120958108" duration="15136000" />
-      <workItem from="1496137535963" duration="8376000" />
+      <workItem from="1496137535963" duration="9334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68836000" />
+    <option name="totallyTimeSpent" value="69794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="319" y="86" width="1104" height="745" extended-state="0" />
@@ -842,18 +842,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/src/models/listing.model.js">
+    <entry file="file://$PROJECT_DIR$/backend/src/middleware/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/src/middleware/index.js">
+    <entry file="file://$PROJECT_DIR$/backend/src/models/listing.model.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
           <folding />
         </state>
       </provider>
